@@ -5,12 +5,12 @@ token:
 gateway:
   ip: 172.18.176.1
 
-spring:
-  datasource:
-    driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:testdb
-    username: sa
-    password: '{cipher}AQARpxSqS7gMc7wyWTnsfTBXyw0yzyHimBkEYJArWN0vlwAOSIcRAe0kNhqDaV4mrR1XG+IxOQ8Mvba4F6hGwHqTlxQqgnJm76SrCzZmdeHolZ+KPPctoJvICj+Vf/ZAXFyTcrQmgP/iZT/XObkp6gSm3FbpwN7YLMeElN9wW7TCMNfn6DzTVIaVhlR1U7/a+Sb+u4SGrJcTM/OCV5Ew51ByHjD6lGkz5lp+il41JO6z4Ko+cljhEM987uYXM3LkvX9yF90B3ZEl8uaQp8xvLrF7BH2qC8iD0nb0gao23agkCwsdUMIiSiQFL4DUeXYUaYwdwGvDPBcXPwzvsKmwM+2iNj20LZ+4f6a9b6tKeAWXzCwdZt+KKnDIEJ7N4TbW+m8='
+# spring:
+#   datasource:
+#     driver-class-name: org.h2.Driver
+#     url: jdbc:h2:mem:testdb
+#     username: sa
+#     password: '{cipher}AQARpxSqS7gMc7wyWTnsfTBXyw0yzyHimBkEYJArWN0vlwAOSIcRAe0kNhqDaV4mrR1XG+IxOQ8Mvba4F6hGwHqTlxQqgnJm76SrCzZmdeHolZ+KPPctoJvICj+Vf/ZAXFyTcrQmgP/iZT/XObkp6gSm3FbpwN7YLMeElN9wW7TCMNfn6DzTVIaVhlR1U7/a+Sb+u4SGrJcTM/OCV5Ew51ByHjD6lGkz5lp+il41JO6z4Ko+cljhEM987uYXM3LkvX9yF90B3ZEl8uaQp8xvLrF7BH2qC8iD0nb0gao23agkCwsdUMIiSiQFL4DUeXYUaYwdwGvDPBcXPwzvsKmwM+2iNj20LZ+4f6a9b6tKeAWXzCwdZt+KKnDIEJ7N4TbW+m8='
 
 
 order_service:
